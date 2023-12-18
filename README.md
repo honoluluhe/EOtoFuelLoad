@@ -1,2 +1,2 @@
-This script is published along the paper submitted the Environmental Modelling & Software.
+This script is published along the paper submitted to the Environmental Modelling & Software.
 The script for processing datasets and calculating fuel age and fuel load are available at a Github repository created by Lulu He (E-mail: lulu.he@adelaide.edu.au) in 2023: https://github.com/honoluluhe/EOtoFuelLoad.  The repository contains the program codes and the sample data. The Earth Observation dataset MCD64A1 presented in this study is available on The United States Geological Survey https://lpdaac.usgs.gov/products/mcd64a1v006/. 
